@@ -8,7 +8,7 @@ A simple, responsive landing page for a home-based tailoring business in Islamab
 
 
 
-!\[Homepage Screenshot](images/himages01.jpg)
+!\[Homepage Screenshot](images/images01.jpg)
 
 
 
