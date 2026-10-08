@@ -1,4 +1,4 @@
-\# Tailoring Protfolio with Caonflict
+\# Tailoring Protfolio without conflict, Added and agreed on the same headings.
 
 A simple, responsive landing page for a home-based tailoring business in Islamabad. This project showcases services, provides contact information, and demonstrates a clean, professional web presence.
 
